@@ -1,16 +1,9 @@
-# video_call_screens
+Animated video call screens
 
-A new Flutter project.
+Animations: 
+- click on your video to zoom 
+- click on right bottom arrow up to open more options
+- double click at the coming call to hide all others widgets
 
-## Getting Started
+https://user-images.githubusercontent.com/89051381/134022266-a2847a6f-91df-46f2-85c9-0681c5b0264a.mp4
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
